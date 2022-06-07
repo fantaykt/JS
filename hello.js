@@ -1,1 +1,2 @@
-console.log('hello js')
+myString = new String("Hello world");
+console.log(myString.valueOf());
